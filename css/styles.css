@@ -1,0 +1,163 @@
+hr{
+  margin: 0;
+  border: 0;
+}
+
+body{
+  margin: 0 0 -20px 0;
+  text-align: center;
+  background-color: #A799B7;
+  font-family: 'Lora', serif;
+}
+
+h1{
+  font-family: 'Fuggles', cursive;
+  font-size: 5.625rem;
+  margin: 0;
+  color: #0A1931;
+}
+h2{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 2rem;
+  color: #334257;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Shadows Into Light', cursive;
+}
+
+p{
+  color: #293B5F;
+  line-height: 2;
+}
+
+
+
+
+.top-container{
+
+  padding-top: 100px;
+  background-color: #3C8DAD;
+  padding-bottom: 0;
+  }
+
+.middle-container{
+  margin: 0px;
+  background-color: #907FA4;
+  border: 0px;
+  padding:50px 0 10px 0;
+  }
+
+.bottom-container{
+  background-color: #E2BCB7;
+  margin-top:-80px;
+  border: 0;
+  padding: 0;
+}
+
+
+
+.up-cloud{
+  position: absolute;
+  right: 270px;
+  top: 20px;
+}
+
+
+
+.bottom-cloud{
+  position: absolute;
+  right: 800px;
+  top: 250px;
+}
+
+
+
+.mountain{
+  padding-top: 80px;
+  height: 300px;
+  width: 700px;
+}
+
+.mypicture{
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto ;
+  text-align: left;
+
+
+}
+
+.cricket{
+  width: 25%;
+  float: right;
+  margin-left: : 30px;
+}
+
+.code{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+
+
+.profile{
+  background-color: #DDDDDD;
+  margin-top: -65px;
+  border-top: 0;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+.BUTTON_HVK {
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   color: #FFFFFF;
+   font-family: Times New Roman;
+   font-size: 20px;
+   font-weight: 100;
+   padding: 18px;
+   background-color: #907FA4;
+   -webkit-box-shadow: 0 1px 20px 0 #907FA4;
+   -moz-box-shadow: 0 1px 20px 0 #907FA4;
+   box-shadow: 0 1px 20px 0 #907FA4;
+   text-shadow: 1px 1px 20px #907FA4;
+   border: solid #907FA4 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-bottom: 20px;
+}
+
+.BUTTON_HVK:hover {
+   border: solid #54436B 1px;
+   background: #54436B;
+   background-image: -webkit-linear-gradient(top, #54436B, #54436B);
+   background-image: -moz-linear-gradient(top, #54436B, #54436B);
+   background-image: -ms-linear-gradient(top, #54436B, #54436B);
+   background-image: -o-linear-gradient(top, #54436B, #54436B);
+   background-image: -webkit-gradient(to bottom, #54436B, #54436B);
+   -webkit-border-radius: 7px;
+   -moz-border-radius: 7px;
+   border-radius: 7px;
+   text-decoration: none;
+}
